@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "isAlterar": false,
+        "isSelected": false,
+        "description": "Criar Layout no Figma"
+    },
+    {
+        "id": 2,
+        "isAlterar": false,
+        "isSelected": false,
+        "description": "Desenvolver Front-End"
+    },
+    {
+        "id": 3,
+        "isAlterar": false,
+        "isSelected": false,
+        "description": "Desenvolver Back-End"
+    },
+    {
+        "id": 4,
+        "isAlterar": false,
+        "isSelected": false,
+        "description": "Criar API"
+    },
+    {
+        "id": 5,
+        "isAlterar": false,
+        "isSelected": false,
+        "description": "Publicar no Github"
+    }
+]
